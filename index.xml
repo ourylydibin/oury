@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on MAMADOU OURY LY</title>
+    <link>https://ourylydibin.github.io/oury/</link>
+    <description>Recent content in Data Science Portfolio on MAMADOU OURY LY</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Jul 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://ourylydibin.github.io/oury/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Banknote Classifier</title>
+      <link>https://ourylydibin.github.io/oury/post/chapter-3/</link>
+      <pubDate>Sun, 11 Jul 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://ourylydibin.github.io/oury/post/chapter-3/</guid>
+      <description>Created a tool that predicts whether or not a banknote is authentic. Performed EDA to understand the data using Python libraries. Handled outliers and scaled the features. Applied cross_validate techniques to 9 machine-learning algorithms reach the best model. Optimized the selected algorithm using GridSearchCV. Dockerized the model using Docker container. Built a client facing API using Flask, Kubernetes and GCP cloud.  The project&amp;rsquo;s Github Repository
+DISCLAIMER ⚠️ This project is a POC(Proof of concept).</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Scrapper</title>
+      <link>https://ourylydibin.github.io/oury/post/chapter-2/</link>
+      <pubDate>Sat, 10 Jul 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://ourylydibin.github.io/oury/post/chapter-2/</guid>
+      <description>Created a tool that scraps information about a product from Flipkart website. Wrote a Python code to connect to MongoDb Atlas database. An alternative was MySQL server. Scrapped the data using Python code and store it into MongoDb. Built a client facing API using Flask and Heroku cloud.  This is the project&amp;rsquo;s Github Repository
+MOTIVATION 💪   Web scrapping is one of the most famous strategy in data collection from the internet.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Diabetes Classifier</title>
+      <link>https://ourylydibin.github.io/oury/post/project-1/</link>
+      <pubDate>Fri, 09 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://ourylydibin.github.io/oury/post/project-1/</guid>
+      <description>Created a tool that predicts whether or not a patient has Diabetes. Performed EDA to understand the data using Python libraries. Handled outliers, imbalanced data Set and scaled the features. Applied cross_validate techniques to 9 machine-learning algorithms reach the best model. Optimized the selected algorithm using RandomizedSearchCV. Built a client facing API using Flask.  The project&amp;rsquo;s Github Repository
+DISCLAIMER ⚠️ This project is a POC(Proof of concept). It is an End-to-End project to present the idea that how we can use ML into precision diabetes if developped at large scale with enough data.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ourylydibin.github.io/oury/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ourylydibin.github.io/oury/contact/</guid>
+      <description>Follow me on these social media platforms
+   Platform URL     Github: https://github.com/ourylydibin   LinkedIn: https://www.linkedin.com/in/m-oury-ly-724960a9/    </description>
+    </item>
+    
+  </channel>
+</rss>
